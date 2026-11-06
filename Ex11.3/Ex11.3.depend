@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1793988691 source:c:\users\pc\documents\sql_lab1\ex11.3\animal.cpp
+	"Animal.h"
+
+1793988691 c:\users\pc\documents\sql_lab1\ex11.3\animal.h
+	<iostream>
+
+1793988691 source:c:\users\pc\documents\sql_lab1\ex11.3\chat.cpp
+	"chat.h"
+
+1793988691 c:\users\pc\documents\sql_lab1\ex11.3\chat.h
+	"Animal.h"
+
+1793988691 source:c:\users\pc\documents\sql_lab1\ex11.3\chien.cpp
+	"chien.h"
+
+1793988691 c:\users\pc\documents\sql_lab1\ex11.3\chien.h
+	"Animal.h"
+
+1793988691 source:c:\users\pc\documents\sql_lab1\ex11.3\vache.cpp
+	"Vache.h"
+
+1793988691 c:\users\pc\documents\sql_lab1\ex11.3\vache.h
+	"Animal.h"
+
